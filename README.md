@@ -1,7 +1,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/94239332/149531719-699e17ea-477b-4ed3-a5cb-cd57030b53d0.gif" alt="Obi-Wan Kenobi saying Hello There"/>
 
 <h1>I'm Kurt Shields!</h1>
-<h3>A full stack software developer, D&D DM and world builder, and video game enthusiast!</h3>
+<h3>A full stack software developer, Dungeons and Dragons DM and World Builder, and video game enthusiast!</h3>
 
 - Email me! **kurtshields.42@gmail.com**
 
