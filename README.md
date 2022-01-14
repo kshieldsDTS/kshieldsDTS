@@ -16,20 +16,24 @@
 
 <h2>Current Projects:</h2>
 <h3>D&D Fifth Edition Text Adventure</h3>
-<p>Currently in a drafting stage, the D&D Fifth Edition Text Adventure will eventually become a full fledged turn based RPG system. Currently the player's stats are hard coded, and enemy data is pulled from an API.</p>
+<p>Currently only a proof of concept, the D&D Fifth Edition Text Adventure will eventually become a full fledged turn based RPG system. Currently the player's stats are hard coded, and enemy data is pulled from an API.</p>
+<h3>Tools:</h3>
+<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></p>
 <h3>Current Features:</h3>
 <ul>
-  <li>Customizable text nodes and inventory
+  <li>Customizable text nodes and inventory nodes
   <li>Easily scalable to larger campaigns and stories
-  <li>API calls if a DM does not want to hard code enemies.
+  <li>API calls if a DM does not want to hard code enemies. (to be deprecated)
 </ul>
 <h3>Planned features:</h3>
 <ul>
+  <li>Create a hard-coded enemy database, to reduce the need for API.
   <li>Multiple character parties
   <li>Multiple enemies per encounter
   <li>Character customization (names, stats, classes)
   <li>More robust inventory and management
   <li>MAGIC! 🪄
+  <li>More interactive combat (different actions and abilities)
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
