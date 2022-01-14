@@ -6,7 +6,7 @@
 - Email me! **kurtshields.42@gmail.com**
 
 <div>
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/kurt-shields" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kurt-shields LinkedIn" height="30" width="40" /></a>
 <a href="https://www.twitch.tv/doomtrainSuplex" target="blank"><img align="center" src="https://user-images.githubusercontent.com/94239332/149533238-5a1151e2-e7e6-4d50-b247-75e9c36512bc.png" alt="DoomtrainSuplex Twitch" height="30" width="50" /></a>
