@@ -28,6 +28,7 @@
 <h3>Planned features:</h3>
 <ul>
   <li>Create a hard-coded enemy database, to reduce the need for API.
+  <li>Character progression and leveling
   <li>Multiple character parties
   <li>Multiple enemies per encounter
   <li>Character customization (names, stats, classes)
