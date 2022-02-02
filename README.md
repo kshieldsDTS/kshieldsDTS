@@ -1,7 +1,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/94239332/149531719-699e17ea-477b-4ed3-a5cb-cd57030b53d0.gif" alt="Obi-Wan Kenobi saying Hello There"/>
 
 <h1>I'm Kurt Shields!</h1>
-<h3>A full stack software developer, Dungeons and Dragons DM and World Builder, and video game enthusiast!</h3>
+<h3>A full stack software developer!</h3>
 
 - Email me! **kurtshields.42@gmail.com**
 
@@ -9,8 +9,6 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/kurt-shields" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kurt-shields LinkedIn" height="30" width="40" /></a>
-<a href="https://www.twitch.tv/doomtrainSuplex" target="blank"><img align="center" src="https://user-images.githubusercontent.com/94239332/149533238-5a1151e2-e7e6-4d50-b247-75e9c36512bc.png" alt="DoomtrainSuplex Twitch" height="30" width="50" /></a>
-<a href="https://www.dndbeyond.com/members/DoomtrainSuplex" target="blank"><img src="https://user-images.githubusercontent.com/94239332/149534279-b55455bc-cf8c-457e-929a-76127e210655.png" alt="DoomtrainSuplex D&D Beyond" height="30" width="30"/></a>
 </p>
 </div>
 
